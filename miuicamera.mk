@@ -4,8 +4,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-CAMERA_PATH := device/xiaomi/camera
-CAMERA_VENDOR_PATH := vendor/xiaomi/camera
+CAMERA_PATH := device/xiaomi/miuicamera-alioth
+CAMERA_VENDOR_PATH := vendor/xiaomi/miuicamera-alioth
 
 # Permissions
 PRODUCT_COPY_FILES += \
